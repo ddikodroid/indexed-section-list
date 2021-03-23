@@ -18,14 +18,12 @@ const styles = StyleSheet.create({
   sectionWrapper: { flexDirection: 'row', alignItems: 'center' },
   sectionTitle: {
     paddingHorizontal: 5,
-    fontSize: 18,
-    fontWeight: 'bold',
-    color: 'grey',
+    fontSize: 20,
+    fontWeight: '700',
+    color: '#1d1619',
   },
   sectionDivider: {
     flex: 1,
-    borderWidth: 1,
-    borderColor: 'gray',
   },
 });
 
